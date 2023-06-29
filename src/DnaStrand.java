@@ -20,7 +20,12 @@ public class DnaStrand {
     public static String makeComplement(String dna) {
 
         String otherDna = null;
-        
+
         return otherDna;
     }
+
+    public static void main(String[] args) {
+        System.out.println(makeComplement("ATGC"));
+    }
 }
+
