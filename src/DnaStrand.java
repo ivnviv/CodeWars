@@ -19,13 +19,31 @@ Example: (input --> output)
 public class DnaStrand {
     public static String makeComplement(String dna) {
 
-        String otherDna = null;
+        char[] charArray = dna.toCharArray();
+        StringBuilder otherDna = new StringBuilder();
 
-        return otherDna;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(makeComplement("ATGC"));
+        for (char c : charArray) {
+            switch (c) {
+                case 'A':
+                    otherDna.append('T');
+                    break;
+                case 'T':
+                    otherDna.append('A');
+                    break;
+                case 'G':
+                    otherDna.append('C');
+                    break;
+                case 'C':
+                    otherDna.append('G');
+                    break;
+            }
+        }
+        return otherDna.toString();
     }
 }
+
+    //public static void main(String[] args) {
+      //  System.out.println(makeComplement("ATGC"));
+    //}
+//}
 
