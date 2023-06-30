@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/isogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/highestScoringWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mexicanWave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Isograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pinValidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pinValidate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/JP/CodeWars"
+    "last_opened_file_path": "C:/Users/User/Desktop/JP/CodeWars",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.highestScoringWord">
+    <configuration name="highestScoringWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="highestScoringWord" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="isogram" />
       <module name="CodeWars" />
@@ -43,8 +52,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pinValidate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pinValidate" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.highestScoringWord" />
+        <item itemvalue="Application.pinValidate" />
         <item itemvalue="Application.isogram" />
       </list>
     </recent_temporary>
