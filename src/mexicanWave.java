@@ -10,14 +10,27 @@ Example
 wave("hello") => {"Hello", "hEllo", "heLlo", "helLo", "hellO"}
  */
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class mexicanWave {
     public static String[] wave(String str) {
-        char[] strArray = str.toCharArray();
-        //StringBuilder strWave = new StringBuilder();
+        List<String> result = new ArrayList<>();
 
+        for (int i = 0; i < str.length(); i++) {
+            char c = str.charAt(i);
+            if (Character.isLetter(c)) {
+                String waveStr = str.substring(0, i) + Character.toUpperCase(c) + str.substring(i + 1);
+                result.add(waveStr);
+            }
+        }
+        return result.toArray(result.toArray(new String[0]));
+    }
 
-
-        // Your code here
-        return new String[] {};
+    public static void main(String[] args) {
+        String[] waveArray = wave("hello");
+        for (String wave : waveArray) {
+            System.out.println(wave);
+        }
     }
 }
