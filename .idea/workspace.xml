@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="qq">
-      <change afterPath="$PROJECT_DIR$/src/stepikStrangers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shavermaStonks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +39,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.stepikStrangers">
+  <component name="RunManager" selected="Application.shavermaStonks">
     <configuration name="createPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="createPhoneNumber" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="highestScoringWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="highestScoringWord" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shavermaStonks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shavermaStonks" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="stepikStrangers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stepikStrangers" />
       <module name="CodeWars" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.shavermaStonks" />
         <item itemvalue="Application.stepikStrangers" />
         <item itemvalue="Application.createPhoneNumber" />
         <item itemvalue="Application.leapYears" />
         <item itemvalue="Application.mexicanWave" />
-        <item itemvalue="Application.highestScoringWord" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688126191388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="qq">
+      <option name="closed" value="true" />
+      <created>1688130684185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688130684185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
