@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="qq">
-      <change afterPath="$PROJECT_DIR$/src/Collatz.java" afterDir="false" />
+    <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="new task added">
+      <change afterPath="$PROJECT_DIR$/src/findEvenIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isogram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2RsrAJrQzPXa46yZTsJ9j2k4NMc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,41 +41,19 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/JP/Regress_LKK",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Java_projects/CodeWars"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Collatz">
-    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collatz" />
+  <component name="RunManager" selected="Application.findEvenIndex">
+    <configuration name="findEvenIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findEvenIndex" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecureTester" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="growingPlant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="growingPlant" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shavermaStonks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shavermaStonks" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stepikStrangers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stepikStrangers" />
+    <configuration name="isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isogram" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +61,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.SecureTester" />
-        <item itemvalue="Application.growingPlant" />
-        <item itemvalue="Application.shavermaStonks" />
-        <item itemvalue="Application.stepikStrangers" />
+        <item itemvalue="Application.findEvenIndex" />
+        <item itemvalue="Application.isogram" />
       </list>
     </recent_temporary>
   </component>
@@ -94,67 +75,6 @@
       <option name="presentableId" value="Default" />
       <updated>1688049487999</updated>
     </task>
-    <task id="LOCAL-00001" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688112999488</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1688112999488</updated>
-    </task>
-    <task id="LOCAL-00002" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688123808744</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1688123808744</updated>
-    </task>
-    <task id="LOCAL-00003" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688126191388</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1688126191388</updated>
-    </task>
-    <task id="LOCAL-00004" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688130684185</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1688130684185</updated>
-    </task>
-    <task id="LOCAL-00005" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688135149760</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1688135149760</updated>
-    </task>
-    <task id="LOCAL-00006" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688386838227</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1688386838227</updated>
-    </task>
-    <task id="LOCAL-00007" summary="qq">
-      <option name="closed" value="true" />
-      <created>1688396594665</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1688396594665</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="qq" />
-    <option name="LAST_COMMIT_MESSAGE" value="qq" />
   </component>
 </project>
