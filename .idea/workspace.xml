@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="new task added">
-      <change afterPath="$PROJECT_DIR$/src/findEvenIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="added task findEvenIndex">
+      <change afterPath="$PROJECT_DIR$/src/FindOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RgbToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dutyFreeKata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DnaStrand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +41,38 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Java_projects/CodeWars"
+    "last_opened_file_path": "C:/Java_projects/JavaLearning"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.findEvenIndex">
+  <component name="RunManager" selected="Application.FindOutlier">
+    <configuration name="DnaStrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DnaStrand" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindOutlier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindOutlier" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RgbToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RgbToHex" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dutyFreeKata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dutyFreeKata" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="findEvenIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="findEvenIndex" />
       <module name="CodeWars" />
@@ -52,17 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isogram" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindOutlier" />
+        <item itemvalue="Application.dutyFreeKata" />
+        <item itemvalue="Application.DnaStrand" />
+        <item itemvalue="Application.RgbToHex" />
         <item itemvalue="Application.findEvenIndex" />
-        <item itemvalue="Application.isogram" />
       </list>
     </recent_temporary>
   </component>
@@ -75,6 +99,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688049487999</updated>
     </task>
+    <task id="LOCAL-00001" summary="added task findEvenIndex">
+      <created>1688906666067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688906666067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added task findEvenIndex" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task findEvenIndex" />
   </component>
 </project>

@@ -40,10 +40,9 @@ public class DnaStrand {
         }
         return otherDna.toString();
     }
-}
 
-    //public static void main(String[] args) {
-      //  System.out.println(makeComplement("ATGC"));
-    //}
-//}
+    public static void main(String[] args) {
+    System.out.println(makeComplement("ATGC"));
+    }
+}
 
