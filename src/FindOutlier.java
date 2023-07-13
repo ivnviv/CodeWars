@@ -5,25 +5,27 @@ public class FindOutlier {
         int result = 0;
 
 
-        for(int i = 0; i<integers.length; i++){
-            if (integers[i] % 2 ==0){
+        for(int i = 0; i<integers.length; i++) {
+            if (integers[i] % 2 == 0) {
                 evenCounter++;
-            }else {
-                oddCounter++;
-            }
-            if (evenCounter > oddCounter){
-                while (integers[i] % 2 != 0){
-                    result = integers[i];
-                    return result;
-                }
             } else {
-                while (integers[i] % 2 == 0){
-                    result = integers[i];
-                    return result;
-                }
+                oddCounter++;
             }
         }
 
+        for (int i = 0; i < integers.length; i++) {
+            if (evenCounter > oddCounter) {
+                if (integers[i] % 2 != 0) {
+                    result = integers[i];
+                    break;
+                }
+            } else {
+                if (integers[i] % 2 == 0) {
+                    result = integers[i];
+                    break;
+                }
+            }
+                }
         return result;
     }
 
