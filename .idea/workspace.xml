@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="qq">
+      <change afterPath="$PROJECT_DIR$/src/BuyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordGuesser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindOutlier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindOutlier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,28 +28,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2RsrAJrQzPXa46yZTsJ9j2k4NMc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/JP/Regress_LKK",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java_projects/JavaLearning&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FindOutlier">
-    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collatz" />
+}</component>
+  <component name="RunManager" selected="Application.TriangleNumbers">
+    <configuration name="BuyCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuyCar" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,22 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecureTester" />
+    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromes" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="growingPlant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="growingPlant" />
+    <configuration name="TriangleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleNumbers" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shavermaStonks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shavermaStonks" />
+    <configuration name="WordGuesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGuesser" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleNumbers" />
+        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.WordGuesser" />
+        <item itemvalue="Application.BuyCar" />
         <item itemvalue="Application.FindOutlier" />
-        <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.SecureTester" />
-        <item itemvalue="Application.growingPlant" />
-        <item itemvalue="Application.shavermaStonks" />
       </list>
     </recent_temporary>
   </component>
