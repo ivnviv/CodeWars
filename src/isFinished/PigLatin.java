@@ -1,4 +1,4 @@
-/*  Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.*/
+package isFinished;/*  Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.*/
 
 import static org.junit.Assert.assertEquals;
 
@@ -44,7 +44,7 @@ public class PigLatin {
         System.out.println(pigIt("Pig latin is cool") + " and should be \"igPay atinlay siay oolcay\"");
         System.out.println(pigIt("This is my string") + " and should be \"hisTay siay ymay tringsay\"");
 
-        //assertEquals("igPay atinlay siay oolcay", PigLatin.pigIt());
-        //assertEquals("hisTay siay ymay tringsay", PigLatin.pigIt());
+        //assertEquals("igPay atinlay siay oolcay", isFinished.PigLatin.pigIt());
+        //assertEquals("hisTay siay ymay tringsay", isFinished.PigLatin.pigIt());
     }
 }

@@ -1,3 +1,5 @@
+package isFinished;
+
 public class FindOdd {
     public static int findIt(int[] a) {
         int num;

@@ -1,3 +1,5 @@
+package isFinished;
+
 public class TriangleNumbers {
     public static Boolean isTriangleNumber(long number) {
         if (number == 0 || number == 1) {

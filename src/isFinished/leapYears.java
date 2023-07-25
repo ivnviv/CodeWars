@@ -1,3 +1,5 @@
+package isFinished;
+
 public class leapYears {
     public static boolean isLeapYear(int year) {
         if (year % 4 == 0) {

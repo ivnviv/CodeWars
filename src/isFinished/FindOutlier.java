@@ -1,3 +1,5 @@
+package isFinished;
+
 public class FindOutlier {
     static int find(int[] integers) {
         int evenCounter = 0;

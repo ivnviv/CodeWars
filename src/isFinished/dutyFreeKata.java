@@ -1,3 +1,5 @@
+package isFinished;
+
 public class dutyFreeKata {
     public static int dutyFree(int normPrice, int discount, int hol) {
         double answer = 0;

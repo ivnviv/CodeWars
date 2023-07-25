@@ -1,4 +1,4 @@
-/*
+package isFinished;/*
 Preface
 A collatz sequence, starting with a positive integern, is found by repeatedly applying the following function to n until n == 1 :
 The Problem

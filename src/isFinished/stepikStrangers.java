@@ -1,3 +1,5 @@
+package isFinished;
+
 import java.util.Scanner;
 import java.io.IOException;
 

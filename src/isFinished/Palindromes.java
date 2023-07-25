@@ -1,3 +1,5 @@
+package isFinished;
+
 public class Palindromes {
     public static int longestPalindrome(final String s) {
         char[] charArray = s.toCharArray();

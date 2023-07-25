@@ -1,3 +1,5 @@
+package isFinished;
+
 public class highestScoringWord {
     public static String high(String s) {
         int[] letterScores = new int[26];

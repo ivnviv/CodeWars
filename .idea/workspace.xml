@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="qq">
-      <change afterPath="$PROJECT_DIR$/src/FindOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isFinished/BraceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notFinished/PerfectPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/BuyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/DnaStrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/FindOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindOutlier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/FindOutlier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/Palindromes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/PigLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RgbToHex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/RgbToHex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/SecureTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriangleNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/TriangleNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriangleTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/TriangleTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/WordGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/createPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/createPhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dutyFreeKata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/dutyFreeKata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findEvenIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/findEvenIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/growingPlant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/growingPlant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highestScoringWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/highestScoringWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/isogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leapYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/leapYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mexicanWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/mexicanWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pinValidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/pinValidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shavermaStonks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/shavermaStonks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepikStrangers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isFinished/stepikStrangers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +72,35 @@
 }</component>
   <component name="RunManager" selected="Application.PigLatin">
     <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindOdd" />
+      <option name="MAIN_CLASS_NAME" value="isFinished.FindOdd" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindromes" />
+      <option name="MAIN_CLASS_NAME" value="isFinished.Palindromes" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PigLatin" />
+      <option name="MAIN_CLASS_NAME" value="isFinished.PigLatin" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TriangleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleNumbers" />
+      <option name="MAIN_CLASS_NAME" value="isFinished.TriangleNumbers" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WordGuesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordGuesser" />
+      <option name="MAIN_CLASS_NAME" value="isFinished.WordGuesser" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />

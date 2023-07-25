@@ -1,3 +1,5 @@
+package isFinished;
+
 public class shavermaStonks {
     public static void main(String[] args) {
         float baseMoney = 70000F;

@@ -1,3 +1,5 @@
+package isFinished;
+
 /*
 Each day a plant is growing by upSpeed meters.
 Each night that plant's height decreases by downSpeed meters due to the lack of sun heat. Initially, plant is 0 meters tall.
