@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d3f406-8f96-4232-888d-d58e289a3f5f" name="Changes" comment="qq">
-      <change afterPath="$PROJECT_DIR$/src/BuyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriangleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriangleTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordGuesser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PigLatin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleNumbers">
-    <configuration name="BuyCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuyCar" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindOutlier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindOutlier" />
+  <component name="RunManager" selected="Application.PigLatin">
+    <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindOdd" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +56,13 @@
     </configuration>
     <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindromes" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PigLatin" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PigLatin" />
+        <item itemvalue="Application.FindOdd" />
         <item itemvalue="Application.TriangleNumbers" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.WordGuesser" />
-        <item itemvalue="Application.BuyCar" />
-        <item itemvalue="Application.FindOutlier" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688396594665</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="qq">
+      <created>1689925102745</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689925102745</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
